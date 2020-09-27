@@ -1,0 +1,4 @@
+Cannot generate into D:\Study\CS\Cpp_part_1\cpp_homework_1
+It was created with incompatible generator 'NMake Makefiles'
+
+Please either delete it manually or select another generation directory

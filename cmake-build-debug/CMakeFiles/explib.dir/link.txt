@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libexplib.a  CMakeFiles/explib.dir/explib/crc32.cpp.obj CMakeFiles/explib.dir/explib/sum32.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libexplib.a
